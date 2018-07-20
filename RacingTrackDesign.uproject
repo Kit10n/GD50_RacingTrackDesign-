@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.19",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueMan_VehicleAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d468c2dc687400f9c466ca418c8a1c1"
+		}
+	]
+}
