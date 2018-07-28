@@ -1,3 +1,15 @@
 
 Content/AutomotiveMaterials/Textures/Wheel/T_Dirt.uasset
 Content/AutomotiveMaterials/Textures/Wheel/T_Dirt_N.uasset
+*.log
+*.dmp
+Saved/Crashes/UE4CC-Windows-46BD7060493951E1123480BC94098D38_0000/CrashReportClient.ini
+Saved/Crashes/UE4CC-Windows-46BD7060493951E1123480BC94098D38_0000/CrashContext.runtime-xml
+*.ini
+*.json
+Content/Animal/Wolf_Body1.uasset
+Content/Animal/Wolf_Claws.uasset
+Content/Animal/Wolf_Eyes.uasset
+Content/Animal/Wolf_Fur1.uasset
+Content/Animal/Wolf_Teeth.uasset
+*.bin
